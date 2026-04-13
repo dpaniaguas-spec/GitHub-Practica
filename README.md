@@ -6,3 +6,5 @@ SOFTWARE
 Práctica 2
 
 Parte de la práctica 2
+
+Este cambio fue realizado en la rama
